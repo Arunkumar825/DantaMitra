@@ -5,7 +5,7 @@
   <groupId>com.hyd.DantaMitra</groupId>
   <artifactId>DantaMirtra</artifactId>
   <version>3.0.5-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>DantaMirtra</name>
   <url>http://maven.apache.org</url>
